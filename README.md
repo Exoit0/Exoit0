@@ -11,7 +11,7 @@
 
 - 🔭 I recently interned at **Bajaj Allianz** as a Software Engineer Intern (May–July 2025)
 - 🌱 I’m currently exploring **React, PostgreSQL**, and advanced Spring Boot concepts
-- 👨‍💻 Check out my projects at [https://github.com/manurajeshnaik](https://github.com/exoit0)
+- 👨‍💻 Check out my projects at [https://github.com/exoit0](https://github.com/exoit0)
 - 💬 Ask me about **Java, Frontend Development**
 - 📫 How to reach me: **manu.rajesh.naik@gmail.com**
 - ⚡ Fun fact: **I dont even know what Im doing in Engineering at this point, but I just love the UI of Websites**
