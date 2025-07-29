@@ -14,7 +14,7 @@
 - 👨‍💻 Check out my projects at [https://github.com/exoit0](https://github.com/exoit0)
 - 💬 Ask me about **Java, Frontend Development**
 - 📫 How to reach me: **manu.rajesh.naik@gmail.com**
-- ⚡ Fun fact: **I dont even know what Im doing in Engineering at this point, but I just love the UI of Websites**
+- ⚡ Fun fact: **I don't even know what I'm doing in Engineering at this point, but I just love the UI of Websites**
 
 ---
 
