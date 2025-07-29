@@ -1,7 +1,7 @@
 <img alt="Intro" height="350" width="1080" src="https://i.pinimg.com/originals/c1/fc/9d/c1fc9d7f6ae08d56f2b84e81799790a5.gif">
 
-<h1 align="center">Hi 👋, I'm Manu Rajesh Naik</h1>
-<h3 align="center">Ex- Software Engineer Intern @BajajAllianz| Full-Stack Developer | Frontend Enthusiast</h3>
+<h1 align="center">Hi 👾, I'm Manu Rajesh Naik</h1>
+<h3 align="center">Ex- Software Engineer Intern @BajajAllianz | Full-Stack Developer | Frontend Enthusiast</h3>
 
 <img align="right" alt="Coding" height="300" width="400" src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif">
 
