@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=manurajeshnaik&label=Profile%20views&color=0e75b6&style=flat" alt="manurajeshnaik" />
 </p>
 
-- 🔭 I recently interned at **Bajaj Allianz** as a Software Engineer Intern (May–July 2025)
+- 🔭 I recently interned at **Bajaj Allianz General Insurance** as a Software Engineer Intern (May–July 2025)
 - 🌱 I’m currently exploring **React, PostgreSQL**, and advanced Spring Boot concepts
 - 👨‍💻 Check out my projects at [https://github.com/exoit0](https://github.com/exoit0)
 - 💬 Ask me about **Java, Frontend Development**
