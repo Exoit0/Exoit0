@@ -44,16 +44,14 @@
 
 ## 🚀 Projects
 
-### ✅ Zyfero – Web Design Agency Website  
-📍 [GitHub Repo](https://github.com/Exoit0/Zyfero)  
+### ✅ Zyfero – Web Design Agency Website | 📍 [GitHub Repo](https://github.com/Exoit0/Zyfero)  
 - Developed a responsive and interactive site for a fictional design agency with modern animations and UI/UX principles  
 - Implemented advanced scroll animations and transitions using GSAP  
 - **Tech Stack:** HTML, CSS, JavaScript, GSAP
 
 ---
 
-### 🌀 Portfolio Website  
-📍 [GitHub Repo](https://github.com/Exoit0/Portfolio-Website-Trial)  
+### 🌀 Portfolio Website | 📍 [GitHub Repo](https://github.com/Exoit0/Portfolio-Website-Trial)  
 - Created a portfolio website to showcase skills and projects with Locomotive.js and GSAP  
 - Emphasized visual storytelling with smooth transitions and JavaScript-based UI components  
 - **Tech Stack:** HTML, CSS, JavaScript, GSAP, Locomotive.js
