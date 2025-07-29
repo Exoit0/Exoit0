@@ -1,4 +1,4 @@
-<img alt="Master" height="350" width="1080" src="https://i.pinimg.com/originals/77/24/01/77240149bb8ef7f37c2e11a873e8edb4.gif">
+<img alt="Master" height="350" width="1080" src="https://i.pinimg.com/originals/c1/fc/9d/c1fc9d7f6ae08d56f2b84e81799790a5.gif">
 <h1 align="center">Hi 👋, I'm Kaushik Roy</h1>
 <h3 align="center">I am AI/ML Engineer with solid knowledge in NLP , Computer Vision and AI powered projects. I usually work on Tensorflow.</h3>
 <img align="right" alt="Coding" height="300" width="400" src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif">
