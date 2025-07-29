@@ -11,10 +11,10 @@
 
 - 🔭 I recently interned at **Bajaj Allianz** as a Software Engineer Intern (May–July 2025)
 - 🌱 I’m currently exploring **React, PostgreSQL**, and advanced Spring Boot concepts
-- 👨‍💻 Check out my projects at [https://github.com/manurajeshnaik](https://github.com/manurajeshnaik)
-- 💬 Ask me about **Java, Spring Boot, REST APIs, Full-Stack Development**
+- 👨‍💻 Check out my projects at [https://github.com/manurajeshnaik](https://github.com/exoit0)
+- 💬 Ask me about **Java, Frontend Development**
 - 📫 How to reach me: **manu.rajesh.naik@gmail.com**
-- ⚡ Fun fact: **I blend backend automation with frontend interactivity for seamless user experiences**
+- ⚡ Fun fact: **I dont even know what Im doing in Engineering at this point, but I just love the UI of Websites**
 
 ---
 
@@ -29,7 +29,7 @@
 ## 🚀 Projects
 
 ### ✅ Zyfero – Web Design Agency Website  
-📍 [GitHub Repo](https://github.com/manu/zyfero)  
+📍 [GitHub Repo](https://github.com/Exoit0/Zyfero)  
 - Developed a responsive and interactive site for a fictional design agency with modern animations and UI/UX principles  
 - Implemented advanced scroll animations and transitions using GSAP  
 - **Tech Stack:** HTML, CSS, JavaScript, GSAP
@@ -37,7 +37,7 @@
 ---
 
 ### 🌀 Portfolio Website  
-📍 [GitHub Repo](https://github.com/manu/folio)  
+📍 [GitHub Repo](https://github.com/Exoit0/Portfolio-Website-Trial)  
 - Created a portfolio website to showcase skills and projects with Locomotive.js and GSAP  
 - Emphasized visual storytelling with smooth transitions and JavaScript-based UI components  
 - **Tech Stack:** HTML, CSS, JavaScript, GSAP, Locomotive.js
