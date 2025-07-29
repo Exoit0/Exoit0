@@ -26,6 +26,16 @@
 
 ---
 
+## 💼 Experience
+
+### 🛡️ Software Engineer Intern – Bajaj Allianz General Insurance  
+📍 Pune | 🗓️ May 2025 – July 2025  
+- Developed and integrated APIs using **Spring Boot** to automate internal processes such as ConfirmGatePass and ReminderGatePass  
+- Designed and enhanced dynamic web forms using **HTML, CSS, JavaScript**, improving chatbot UX and validation logic  
+- Collaborated in an agile team to boost process automation and customer interaction efficiency
+
+---
+
 ## 🚀 Projects
 
 ### ✅ Zyfero – Web Design Agency Website  
@@ -41,37 +51,6 @@
 - Created a portfolio website to showcase skills and projects with Locomotive.js and GSAP  
 - Emphasized visual storytelling with smooth transitions and JavaScript-based UI components  
 - **Tech Stack:** HTML, CSS, JavaScript, GSAP, Locomotive.js
-
----
-
-## 💼 Experience
-
-### 🛡️ Software Engineer Intern – Bajaj Allianz General Insurance  
-📍 Pune | 🗓️ May 2025 – July 2025  
-- Developed and integrated APIs using **Spring Boot** to automate internal processes such as ConfirmGatePass and ReminderGatePass  
-- Designed and enhanced dynamic web forms using **HTML, CSS, JavaScript**, improving chatbot UX and validation logic  
-- Collaborated in an agile team to boost process automation and customer interaction efficiency
-
----
-
-## 🎓 Education
-
-**B.Tech – Information Technology**  
-KIIT University, Bhubaneswar, Odisha | *2022 – 2026*  
-- CGPA: **8.15**  
-- Relevant coursework: OOPS, OS, DBMS, DSA
-
-**High School Diploma**  
-City International School, Pune, Maharashtra | *July 2022*  
-- 10th: **90.2%** | 12th: **70.4%**
-
----
-
-## 🌱 Extracurricular Activities
-
-**NSS Volunteer** – *2023–Present*  
-- Led and managed impactful community outreach programs through the **National Service Scheme (NSS)**  
-- Strengthened teamwork, public communication, and social responsibility by collaborating with diverse groups
 
 ---
 
