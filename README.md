@@ -1,7 +1,7 @@
 <img alt="Master" height="350" width="1080" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5kbGpjcnhzOGhpenY0aTh4MzllN3ZhcWYzNjJsc2xjaWsyYnFrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l19ipdY2pjK3d8Omtz/giphy.gif">
 <h1 align="center">Hi 👋, I'm Kaushik Roy</h1>
 <h3 align="center">I am AI/ML Engineer with solid knowledge in NLP , Computer Vision and AI powered projects. I usually work on Tensorflow.</h3>
-<img align="right" alt="Coding" height="300" width="400" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/737340/extras/WildLight_2x_Short.gif?t=1682704059">
+<img align="right" alt="Coding" height="300" width="400" src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kaushikml&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikml" />
