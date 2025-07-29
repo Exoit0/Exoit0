@@ -1,4 +1,4 @@
-<img alt="Intro" height="350" width="980" src="https://i.pinimg.com/originals/cb/09/d4/cb09d4ee36fb3788c750440f9b97cc72.gif">
+<img alt="Intro" height="250" width="780" src="https://i.pinimg.com/originals/cb/09/d4/cb09d4ee36fb3788c750440f9b97cc72.gif">
 
 <h1 align="center">Hi 🤘, I'm Manu Rajesh Naik</h1>
 <h3 align="center">Ex- Software Engineer Intern @BajajAllianz | Full-Stack Developer | Frontend Enthusiast</h3>
