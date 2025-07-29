@@ -1,4 +1,4 @@
-<p align="center">
+<p style="margin-left: 50px;">
   <img src="https://i.pinimg.com/originals/cb/09/d4/cb09d4ee36fb3788c750440f9b97cc72.gif" alt="Intro" height="200" width="680">
 </p>
 
